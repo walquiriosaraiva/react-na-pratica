@@ -4,22 +4,20 @@
 
 ## Installation pnpm
 ```bash
-$ npm install -g pnpm
+npm install -g pnpm
 ```
 
 ## Installation libs
 ```bash
-$ pnpm i
+pnpm i
 ```
 
 ## Running the api
 ```bash
-# api
-$ pnpm run server
+pnpm run server
 ```
 
 ## Running the frontend
 ```bash
-# frontend
-$ pnpm run dev
+pnpm run dev
 ```

@@ -14,7 +14,7 @@ interface PaginationProps {
   items: number
   page: number,
   rowsPage: number,
-  onRowsPage: any
+  onRowsPage: Function
 }
 
 export function Pagination({ items, page, pages, rowsPage, onRowsPage }: PaginationProps) {
